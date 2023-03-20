@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c246d47d.css",
+    "main.js": "/static/js/main.f37f0a2b.js",
+    "static/media/men.png": "/static/media/men.671799eb86bc7b75c21d.png",
+    "static/media/casual2.png": "/static/media/casual2.f0c53284f966f7863c8f.png",
+    "static/media/casual.png": "/static/media/casual.6c48725c37da26f53df0.png",
+    "static/media/clean blog.png": "/static/media/clean blog.e699b7120fcebadaa9b1.png",
+    "static/media/creative.png": "/static/media/creative.6c3cdf8b9622d50c9619.png",
+    "static/media/newage.png": "/static/media/newage.920875762033f3733dcd.png",
+    "static/media/newage2.png": "/static/media/newage2.cca356fc829fa285ac3b.png",
+    "static/media/glassesimoji.png": "/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/Profile.pdf": "/static/media/Profile.4adcfc2a413eab9d8979.pdf",
+    "static/media/thumbup.png": "/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/index.html",
+    "main.c246d47d.css.map": "/static/css/main.c246d47d.css.map",
+    "main.f37f0a2b.js.map": "/static/js/main.f37f0a2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c246d47d.css",
+    "static/js/main.f37f0a2b.js"
+  ]
+}
